@@ -5,7 +5,7 @@ import ContactForm from "../components/ContactForm";
 class Contact extends React.Component {
   render() {
     return (
-      <ContactForm/>
+      <ContactForm  />
     );
   }
   }

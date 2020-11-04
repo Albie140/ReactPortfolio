@@ -1,5 +1,5 @@
 import React from "react";
-import CardDeck from "../components/CardDeck";
+import CardDeck from "../components/CardDeck/CardDeck";
 
 class Portfolio extends React.Component {
   render() {

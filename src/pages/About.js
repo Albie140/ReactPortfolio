@@ -1,4 +1,5 @@
 import React from "react";
+import Me from "../assets/me.jpeg"
 
 
 function About() {
@@ -6,19 +7,9 @@ function About() {
       <div>
         
           <h1>About Me</h1>
-         
+          <img src={Me} alt="Me!" className="img-fluid" height={300} width={200}/>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc aliquet diam tortor, id
-                consequat mauris ullamcorper eu. Orci varius natoque penatibus et magnis dis
-                parturient montes, nascetur ridiculus mus. Pellentesque et dui id justo finibus
-                sollicitudin at et metus. Ut feugiat tellus nec metus commodo, sed suscipit nisi
-                gravida. Duis eget vestibulum quam, ut porttitor sem. Donec sagittis mi sollicitudin
-                turpis semper, et interdum risus lobortis. Vestibulum suscipit nunc non egestas
-                tristique. Proin hendrerit efficitur malesuada. Mauris lorem urna, sodales accumsan
-                quam non, tristique tempor erat. Nullam non sem facilisis, tempus tortor sit amet,
-                volutpat nisl. Ut et turpis non nunc maximus mollis a vitae tortor. Pellentesque
-                mattis risus ac quam laoreet cursus. Praesent suscipit orci neque, vestibulum
-                tincidunt augue tincidunt non. Duis consequat mattis tortor vitae mattis.
+              My name is Alberte, pronounced Albert, like Einstein. I graduated from college with a degree in Hospitality Management. I worked in the hospitality industry for over 10 years and decided it was time for a career change. I am now working towards becoming a full stack web developer. Please check out my portfolio, where you can view some of the applications I have created. Feel free to reach out to me via the information found in the contact form.
               </p>
           
       </div>

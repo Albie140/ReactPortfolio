@@ -5,7 +5,7 @@ function Header() {
     return (
         <>
       <nav class="navbar navbar-dark bg-dark">
-        <span class="navbar-brand mb-0 h1">Alberte Laventure</span>
+        <span class="navbar-brand mb-0 h1">ALBERTE LAVENTURE</span>
       </nav>
       </>
     );
