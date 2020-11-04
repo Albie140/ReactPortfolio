@@ -11,17 +11,17 @@ function NavTabs() {
           Home
         </Link>
       </li>
-      <li className="nav-item">
+      {/* <li className="nav-item">
         <Link
           to="/about"
           className={location.pathname === "/about" ? "nav-link active" : "nav-link"}
         >
           About Me
         </Link>
-      </li>
+      </li> */}
       <li className="nav-item">
         <Link
-          to="/blog"
+          to="/portfolio"
           className={location.pathname === "/portfolio" ? "nav-link active" : "nav-link"}
         >
           Portfolio
