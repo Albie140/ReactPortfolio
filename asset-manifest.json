@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/ReactPortfolio/static/css/main.6051a947.chunk.css",
+    "main.js": "/ReactPortfolio/static/js/main.51f2ba80.chunk.js",
+    "main.js.map": "/ReactPortfolio/static/js/main.51f2ba80.chunk.js.map",
+    "runtime-main.js": "/ReactPortfolio/static/js/runtime-main.b4601d57.js",
+    "runtime-main.js.map": "/ReactPortfolio/static/js/runtime-main.b4601d57.js.map",
+    "static/js/2.6c2b8025.chunk.js": "/ReactPortfolio/static/js/2.6c2b8025.chunk.js",
+    "static/js/2.6c2b8025.chunk.js.map": "/ReactPortfolio/static/js/2.6c2b8025.chunk.js.map",
+    "index.html": "/ReactPortfolio/index.html",
+    "static/css/main.6051a947.chunk.css.map": "/ReactPortfolio/static/css/main.6051a947.chunk.css.map",
+    "static/js/2.6c2b8025.chunk.js.LICENSE.txt": "/ReactPortfolio/static/js/2.6c2b8025.chunk.js.LICENSE.txt",
+    "static/media/RecipeRoulette.0b4be682.png": "/ReactPortfolio/static/media/RecipeRoulette.0b4be682.png",
+    "static/media/Resume.31008234.pdf": "/ReactPortfolio/static/media/Resume.31008234.pdf",
+    "static/media/bookchatSignIn.16eb356a.png": "/ReactPortfolio/static/media/bookchatSignIn.16eb356a.png",
+    "static/media/burgerApp.e7878c11.png": "/ReactPortfolio/static/media/burgerApp.e7878c11.png",
+    "static/media/me.3c07f817.jpeg": "/ReactPortfolio/static/media/me.3c07f817.jpeg",
+    "static/media/noteTakerApp.59e1ed40.png": "/ReactPortfolio/static/media/noteTakerApp.59e1ed40.png",
+    "static/media/pwg1.9bf1ba18.png": "/ReactPortfolio/static/media/pwg1.9bf1ba18.png",
+    "static/media/workdayScheduler.93f2b5fb.jpeg": "/ReactPortfolio/static/media/workdayScheduler.93f2b5fb.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b4601d57.js",
+    "static/js/2.6c2b8025.chunk.js",
+    "static/css/main.6051a947.chunk.css",
+    "static/js/main.51f2ba80.chunk.js"
+  ]
+}
