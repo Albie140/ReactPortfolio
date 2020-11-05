@@ -16,8 +16,7 @@ function CardDeck() {
                 <img src={BookchatSignIn} className="card-img-top" alt="Book Chat Application" />
                 <div className="card-body">
                     <h5 className="card-title">Book Chat</h5>
-                    <p className="card-text"> <a href="https://book--chat.herokuapp.com/" target="_blank" rel="noopener noreferrer"> Click here to view the Book
-                                Chat app</a> <br></br>
+                    <p className="card-text"> <a href="https://book--chat.herokuapp.com/" target="_blank" rel="noopener noreferrer"> Click here to view the Book Chat app</a> <br></br>
                         <a href="https://github.com/Albie140" target="_blank">Click here to view GitHub
                                 repository</a> </p>
                     <p className="card-text"><small className="text-muted"></small></p>
@@ -27,8 +26,7 @@ function CardDeck() {
                 <img src={BurgerApp} className="card-img-top" alt="Burger App" />
                 <div className="card-body">
                     <h5 className="card-title">Burger App</h5>
-                    <p className="card-text"> <a href="https://eatyummyburgers.herokuapp.com/" target="_blank" rel="noopener noreferrer"> Click here to view the
-                                Burger App</a> <br></br>
+                    <p className="card-text"> <a href="https://eatyummyburgers.herokuapp.com/" target="_blank" rel="noopener noreferrer"> Click here to view the Burger App</a> <br></br>
                         <a href="https://github.com/Albie140" target="_blank">Click here to view GitHub
                                 repository</a></p>
                     <p className="card-text"><small className="text-muted"></small></p>
@@ -40,8 +38,7 @@ function CardDeck() {
                     <h5 className="card-title">Note Taker</h5>
                     <p className="card-text"> <a href="https://note-taker00.herokuapp.com/" target="_blank" rel="noopener noreferrer"> Click here to view the Note
                                 Taker App</a> <br></br>
-                        <a href="https://github.com/Albie140" target="_blank">Click here to view GitHub
-                                repository</a></p>
+                        <a href="https://github.com/Albie140" target="_blank">Click here to view GitHub repository</a></p>
                     <p className="card-text"><small className="text-muted"></small></p>
                 </div>
             </div>
